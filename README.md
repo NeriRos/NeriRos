@@ -1,5 +1,7 @@
 # Neri's GitHub Profile
 
+![](https://komarev.com/ghpvc/?username=NeriRos&style=flat-square)
+
 ## 📚 About Me
 Hi there! My name is Neri, and I'm a highly skilled full-stack software engineer with over 4 years of experience in software development. I'm passionate about creating innovative solutions, and I'm currently seeking a full-stack developer position in a high-tech product company.
 
