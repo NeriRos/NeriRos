@@ -5,10 +5,10 @@ Hi there! My name is Neri, and I'm a highly skilled full-stack software engineer
 
 ## My expertise:
 
-- JS, TS, NextJS, Node, React, Angular, Jest, .NET
-- React Native, Flutter, Dart, Android
+- NextJS, Node, React, Angular, .NET
+- React Native, Flutter, Dart
 - Postgresql, MongoDB, MySQL, Redis
-- C#, Java, PHP, Python, Bash
+- JS, TS, C#, Java, PHP, Python, Bash
 - Git, K8S, Docker, AWS, Firebase, Vercel, CI/CD
 
 ## 💻 Experience
@@ -17,6 +17,8 @@ I have developed various projects, including:
 
 - A production-grade AI-powered SaaS platform, developed from end to end by myself
 - A full-stack web app licensed to the Israeli police and courts, developed 80% by myself
+- ERPs and Automations platforms.
+- WordPress sites and plugins, Shopify themes and apps.
 - Numerous other exciting projects
 
 ## 🌟 Skills and Principles
@@ -38,11 +40,6 @@ I have developed various projects, including:
 - 10 units of computer science - Ort Hashomron
 
 ## 🚀 Continuous Learning
-I'm always seeking new and creative solutions to improve processes and drive growth. Currently, I am expanding my knowledge about:
-
-- MicroServices
-- Kubernetes
-- RabbitMQ
-
+I'm always seeking new and creative solutions to improve processes and drive growth. \
 As an avid reader, I go through about 60 books a year and have developed most of my skills by myself. /
 My passion for technology drives me, and I have a keen interest in SaaS development.
