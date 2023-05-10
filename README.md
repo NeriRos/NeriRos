@@ -3,7 +3,7 @@
 ## 📚 About Me
 Hi there! My name is Neri, and I'm a highly skilled full-stack software engineer with over 4 years of experience in software development. I'm passionate about creating innovative solutions, and I'm currently seeking a full-stack developer position in a high-tech product company.
 
-## My expertise:
+## 🧪 My expertise:
 
 - NextJS, Node, React, Angular, .NET
 - React Native, Flutter, Dart
