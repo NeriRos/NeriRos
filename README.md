@@ -1,9 +1,8 @@
 # Neri's GitHub Profile
 
-## 😄 About Me
-Hi there! My name is Neri, and I'm a highly skilled full-stack software engineer with over 4 years of experience in software development. I'm passionate about creating innovative solutions, and I'm currently seeking a full-stack developer position in a high-tech product company.
-
-## 🧪 My Expertise
+## About Me
+Hi there! My name is Neri, and I'm a full-stack software engineer with 5 years of experience in software development.
+## My Expertise
 
 | Type            | Values    |
 | -------------   | ------------- |
@@ -15,7 +14,7 @@ Hi there! My name is Neri, and I'm a highly skilled full-stack software engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeriRos&layout=compact&langs_count=5)
 
-## 💻 Experience
+## Experience
 
 I have developed various projects, including:
 
@@ -25,7 +24,7 @@ I have developed various projects, including:
 - WordPress sites and plugins, Shopify themes and apps.
 - Numerous other exciting projects
 
-## 🌟 Skills and Principles
+## Skills and Principles
 
 - Strategic thinker
 - Root cause analysis
@@ -36,14 +35,14 @@ I have developed various projects, including:
 - Strong understanding of Agile, Scrum, design patterns, OOP, Domain Driven Design, and SRS.
 - Ability to quickly adapt and work with different technologies.
 
-## 🎓 Education and Certifications
+## Education and Certifications
 
 - Cyber Security and Penetration Testing (500 hours) - John Bryce
 - Cisco Routing and Switching (125 hours)
 - Microsoft Servers - Practic U
 - 10 units of computer science - Ort Hashomron
 
-## 🚀 Continuous Learning
+## Continuous Learning
 I'm always seeking new and creative solutions to improve processes and drive growth. \
 As an avid reader, I go through about 60 books a year and have developed most of my skills by myself. /
 My passion for technology drives me, and I have a keen interest in SaaS development.
