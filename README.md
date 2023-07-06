@@ -1,7 +1,7 @@
 # Neri's GitHub Profile
 
 ## About Me
-Hi there! My name is Neri, and I'm a full-stack software engineer with 5 years of experience in software development.
+Hi there! My name is Neri, and I'm a full-stack software engineer with 4+ years of experience in software development.
 ## My Expertise
 
 | Type            | Values    |
