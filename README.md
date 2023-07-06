@@ -5,12 +5,12 @@ Hi there! My name is Neri, and I'm a full-stack software engineer with 5 years o
 ## My Expertise
 
 | Type            | Values    |
-| -------------   | ------------- |
-| Web and Backend | NextJS, Node, React, Angular, .NET  |
-| Mobile          | React Native, Flutter, Dart  |
-| Databases       | Postgresql, MongoDB, MySQL, Redis |
-| Languages       | JS, TS, C#, Java, PHP, Python, Bash
-| DevOps          | Git, K8S, Docker, AWS, Firebase, Vercel, CI/CD
+| -------------   | -------------  |
+| Languages       | Javascript, Typescript, PHP, Python, Bash      |
+| Web and Backend | NextJS, Node, React, SveltKit                  |
+| Libraries       | Redux, Jest, Cypress, AntDesign,               |
+| Databases       | Postgresql, MongoDB, DynamoDb, Redis           |
+| DevOps          | Git, K8S, Docker, AWS, Firebase, Github actions, NX |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeriRos&layout=compact&langs_count=5)
 
@@ -18,11 +18,12 @@ Hi there! My name is Neri, and I'm a full-stack software engineer with 5 years o
 
 I have developed various projects, including:
 
-- A production-grade AI-powered SaaS platform, developed from end to end by myself
-- A full-stack web app licensed to the Israeli police and courts, developed 80% by myself
+- A production-grade AI-powered SaaS platform, developed from end to end by myself.
+- Owned the entire frontend repository at a company.
+- A full-stack web app licensed to the Israeli police and courts, developed 80% by myself.
 - ERPs and Automations platforms.
 - WordPress sites and plugins, Shopify themes and apps.
-- Numerous other exciting projects
+- Numerous other exciting projects.
 
 ## Skills and Principles
 
@@ -32,7 +33,7 @@ I have developed various projects, including:
 - Customer focus
 - Passion for innovation
 - Results-driven
-- Strong understanding of Agile, Scrum, design patterns, OOP, Domain Driven Design, and SRS.
+- Strong understanding of Software Architecture, Agile workflow, Scrum, design patterns, OOP, Domain Driven Design, and SRS.
 - Ability to quickly adapt and work with different technologies.
 
 ## Education and Certifications
