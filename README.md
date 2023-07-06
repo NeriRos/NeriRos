@@ -7,7 +7,7 @@ Hi there! My name is Neri, and I'm a full-stack software engineer with 5 years o
 | Type            | Values    |
 | -------------   | -------------  |
 | Languages       | Javascript, Typescript, PHP, Python, Bash      |
-| Web and Backend | NextJS, Node, React, SveltKit                  |
+| Web and Backend | NextJS, Node, React, SveltKit, Vite            |
 | Libraries       | Redux, Jest, Cypress, AntDesign,               |
 | Databases       | Postgresql, MongoDB, DynamoDb, Redis           |
 | DevOps          | Git, K8S, Docker, AWS, Firebase, Github actions, NX |
