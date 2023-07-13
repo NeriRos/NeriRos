@@ -6,11 +6,11 @@ Hi there! My name is Neri, and I'm a full-stack software engineer with 4+ years 
 
 | Type            | Values    |
 | -------------   | -------------  |
-| Languages       | *Javascript*, *Typescript*, PHP, Python, Bash      |
-| Web and Backend | NextJS, *Node*, *React*, Svelte, Vue, Vite         |
+| Languages       | **Javascript**, **Typescript**, PHP, Python, Bash      |
+| Web and Backend | NextJS, **Node**, **React**, Svelte, Vue, Vite         |
 | Libraries       | Redux, Jest, Cypress, AntDesign,               |
 | Databases       | Postgresql, MongoDB, DynamoDb, Redis           |
-| DevOps          | Git, K8S, Docker, *AWS*, Firebase, Github actions, NX |
+| DevOps          | Git, K8S, Docker, **AWS**, Firebase, Github actions, NX |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeriRos&layout=compact&langs_count=5)
 
